@@ -1,0 +1,61 @@
+
+#
+include : identifier
+<: relational operator Less Than
+stdio : identifier
+.
+h : identifier
+>: relational operator Greater Than 
+int : keyword 
+main : identifier
+(
+)
+{ 
+int : keyword 
+a : identifier
+,
+b : identifier
+;
+scanf : identifier
+(
+"
+%
+d : identifier
+"
+,
+&
+a : identifier
+)
+;
+printf : identifier
+(
+"
+I : identifier
+did : identifier
+it : identifier
+"
+)
+;
+Nothing : identifier
+is : identifier
+Impossible : identifier
+Comment Not Closed
+
+
+Identifiers in the given text file are as follows
+S.No - Identifier
+1 - include
+2 - stdio
+3 - h
+4 - main
+5 - a
+6 - b
+7 - scanf
+8 - d
+9 - printf
+10 - I
+11 - did
+12 - it
+13 - Nothing
+14 - is
+15 - Impossible

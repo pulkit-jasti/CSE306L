@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+  int a,b;
+  scanf("%d",&a);
+  printf("I did it");
+  /*Hi*/ 
+  Nothing is Impossible
+  /*Hi.....
+}
