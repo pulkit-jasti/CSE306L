@@ -1,0 +1,60 @@
+*****CD-LAB-3-WEEK*****
+
+
+Do you want to enter indentifier in the symbol table ?
+Press Y or N please
+ Y
+1 variable
+2 function
+3 structure
+4 pointer
+5 array
+Enter your option : 1
+Enter the name of the variable : X
+Enter the datatype of the variable : int
+Enter the scope of the variable (global, inside function, inside class): inside class
+Information of X in the symbol table : 
+['variable', 'X', 'int', 'inside class', 2115470183536]
+Do you want to enter indentifier in the symbol table ?
+Press Y or N please
+ N
+
+
+
+Symbol Table
+
+
+        Variables
+
+
+name    datatype        scope           address
+X       int             inside class            2115470183536
+---------------------******---------------------
+
+
+        Pointers
+
+
+name    datatype        identifiersTable holding                value                   address
+---------------------******---------------------
+
+
+        Functions
+
+
+name    returntype      no. of para     (name,datatype)                 passing method                  address
+------------------------------------------
+
+
+        Structures
+
+
+name    members (name,datatype)                         address
+---------------------******---------------------
+
+
+        Arrays
+
+
+name    datatype        dim     dimvalue        address
+---------------------******---------------------
