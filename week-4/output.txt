@@ -1,0 +1,31 @@
+ 
+ include is an identifier 
+ < is a relational operator less than 
+ stdio is an identifier 
+ h is an identifier 
+ > is a relational operator greater than 
+ int is an identifier 
+ main is an identifier 
+ int is an identifier 
+ a is an identifier 
+ b is an identifier 
+ 5 is an Unsigned integer 
+ scanf is an identifier 
+ d is an identifier 
+ a is an identifier 
+ printf is an identifier 
+ I is an identifier 
+ did is an identifier 
+ it is an identifier 
+ comment start
+ 
+ comment end
+ 
+ Nothing is an identifier 
+ is is an identifier 
+ Impossible is an identifier 
+ comment start
+ 
+ comment end
+ 
+ -25 is an integer

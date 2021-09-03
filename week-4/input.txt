@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main(){
+  int a,b;
+  5
+  scanf("%d",&a);
+  printf("I did it");
+  /* Hi, this is a comment */
+  Nothing is Impossible
+  /*Hi.....*/
+  -25
+}
